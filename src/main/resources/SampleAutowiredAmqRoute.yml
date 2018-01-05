@@ -1,2 +1,2 @@
-activemq:
-  queue: queue.elasticsearch.logging
+#activemq:
+#queue: queue.elasticsearch.logging
