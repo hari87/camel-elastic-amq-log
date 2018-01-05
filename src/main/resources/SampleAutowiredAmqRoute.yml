@@ -1,0 +1,2 @@
+activemq:
+  queue: queue.elasticsearch.logging
